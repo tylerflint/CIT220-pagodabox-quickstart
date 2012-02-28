@@ -1,0 +1,6 @@
+web1:
+  php_extensions: 
+    - mcrypt
+    - mysqli
+    - mysql
+    - mbstring 
